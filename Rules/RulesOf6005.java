@@ -9,6 +9,7 @@ package Rules;
  */
 public class RulesOf6005 {
     //Hello!
+    //Yes!
      
     /**
      * Judge whether a given piece of code may be used in an assignment (problem
