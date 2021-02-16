@@ -8,6 +8,7 @@ package Rules;
  * general information on Stellar.
  */
 public class RulesOf6005 {
+    //Hello!
      
     /**
      * Judge whether a given piece of code may be used in an assignment (problem
